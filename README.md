@@ -1,7 +1,7 @@
-# File Organizer Script - README
+# Media File Organizer - README
 
 ## Overview
-The File Organizer script is a Python utility designed to automatically organize files into designated directories based on their file types. This script is particularly useful for managing large collections of various file types, such as videos, TV shows, audio files, comics, and documents.
+The Media File Organizer script is a Python utility designed to automatically organize files into designated directories based on their file types. This script is particularly useful for managing large collections of various file types, such as videos, TV shows, audio files, comics, and documents.  For example, a Torrents download directory.
 
 ## Features
 - **Configurable File Categories:** Organize files based on predefined categories and file extensions.
